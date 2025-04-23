@@ -1,0 +1,9 @@
+streamlit
+beautifulsoup4
+openpyxl
+python-dotenv
+requests
+pydantic
+schedule
+pytz
+argparse
